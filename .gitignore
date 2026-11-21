@@ -1,0 +1,7 @@
+(
+echo .DS_Store
+echo Thumbs.db
+echo node_modules/
+echo .env
+echo .vscode/
+) > .gitignore
